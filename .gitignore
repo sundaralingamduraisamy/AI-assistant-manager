@@ -20,6 +20,7 @@ backend/*.py[cod]
 backend/*$py.class
 backend/.env
 backend/.env.*
+!backend/.env.example
 backend/faiss_index/
 backend/data/
 
